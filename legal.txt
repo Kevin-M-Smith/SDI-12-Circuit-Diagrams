@@ -1,0 +1,12 @@
+All images are released under a Creative Commons License, specifically: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+
+The full license can be found here: 
+	http://creativecommons.org/licenses/by-sa/3.0/
+
+
+The SVG representation of the Arduino board is made possible by the Fritzing project, http://fritzing.org/, who released the image under the CC BY-SA 3.0.
+	
+The Arduino brand, Arduino logo, and board design are copyright of Arduino SA. 
+http://arduino.cc/, and cannot be used without formal permission. See http://arduino.cc/en/Main/CopyrightNotice for more information. 
+
+ 
